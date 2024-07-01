@@ -11,6 +11,7 @@ public class LearnSpringApplication {
     private String name;
 
     public static void main(String[] args) {
+
         // 싱글톤 패턴
         // 아래 3개는 따로 선언했지만 같은 인스턴스다! == 싱글톤
         Singleton singleton = Singleton.getInstance();
