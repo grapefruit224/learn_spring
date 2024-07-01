@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: learn_spring
+
+kakao:
+  api:
+    key: 123456789
